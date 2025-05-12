@@ -8,7 +8,7 @@ MarchEd is a simple iOS app created as part of CodePath’s Intro to iOS Develop
 - Changes background color to a random color with a button tap
 
 ## Video Walkthrough
-https://i.imgur.com/fakeWalkthrough123.gif
+[https://i.imgur.com/j2dGqaM.gif]
 
 ## Notes
 Created without using a real Mac or Xcode, to be built and refined once development setup is fully accessible.
